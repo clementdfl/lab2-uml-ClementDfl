@@ -1,0 +1,15 @@
+/workspaces/lab2-uml-ClementDfl/bin/Debug/net10.0/lab2-uml-ClementDfl
+/workspaces/lab2-uml-ClementDfl/bin/Debug/net10.0/lab2-uml-ClementDfl.deps.json
+/workspaces/lab2-uml-ClementDfl/bin/Debug/net10.0/lab2-uml-ClementDfl.runtimeconfig.json
+/workspaces/lab2-uml-ClementDfl/bin/Debug/net10.0/lab2-uml-ClementDfl.dll
+/workspaces/lab2-uml-ClementDfl/bin/Debug/net10.0/lab2-uml-ClementDfl.pdb
+/workspaces/lab2-uml-ClementDfl/obj/Debug/net10.0/lab2-uml-ClementDfl.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lab2-uml-ClementDfl/obj/Debug/net10.0/lab2-uml-ClementDfl.AssemblyInfoInputs.cache
+/workspaces/lab2-uml-ClementDfl/obj/Debug/net10.0/lab2-uml-ClementDfl.AssemblyInfo.cs
+/workspaces/lab2-uml-ClementDfl/obj/Debug/net10.0/lab2-uml-ClementDfl.csproj.CoreCompileInputs.cache
+/workspaces/lab2-uml-ClementDfl/obj/Debug/net10.0/lab2-uml-ClementDfl.sourcelink.json
+/workspaces/lab2-uml-ClementDfl/obj/Debug/net10.0/lab2-uml-ClementDfl.dll
+/workspaces/lab2-uml-ClementDfl/obj/Debug/net10.0/refint/lab2-uml-ClementDfl.dll
+/workspaces/lab2-uml-ClementDfl/obj/Debug/net10.0/lab2-uml-ClementDfl.pdb
+/workspaces/lab2-uml-ClementDfl/obj/Debug/net10.0/lab2-uml-ClementDfl.genruntimeconfig.cache
+/workspaces/lab2-uml-ClementDfl/obj/Debug/net10.0/ref/lab2-uml-ClementDfl.dll
